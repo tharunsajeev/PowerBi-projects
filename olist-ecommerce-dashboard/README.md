@@ -159,6 +159,5 @@ Olist SQL Analysis - the SQL layer this dashboard is built on top of
 ## Author
 
 Tharun Sajeev
-Aspiring Data Analyst
 LinkedIn: https://linkedin.com/in/tharun-sajeev-8a9b12285
 GitHub: https://github.com/tharunsajeev
